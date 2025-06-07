@@ -1,0 +1,5 @@
+streamlit
+re
+numpy
+tensorflow>=2.15.0
+tf-keras
